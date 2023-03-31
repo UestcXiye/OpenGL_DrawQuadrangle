@@ -1,0 +1,4 @@
+Debug filter=lfs diff=lfs merge=lfs -text
+OpenGL_DrawQuadrangle filter=lfs diff=lfs merge=lfs -text
+OpenGL_DrawQuadrangle.sdf filter=lfs diff=lfs merge=lfs -text
+OpenGL_DrawQuadrangle.sln filter=lfs diff=lfs merge=lfs -text
